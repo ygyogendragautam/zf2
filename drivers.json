@@ -1,3 +1,15 @@
+[
+	{
+	"id": 1,
+	"nationality": "Australia",
+	"grand_prix": "Australian Grand Prix",
+	"team": "Red Bull",
+	"grid": 1,
+	"race": 3,
+	"class_style": "race3",
+	"driver_name": "Vettel",
+	"dob": "1987-07-03"
+},
 {
 	"id": 1,
 	"nationality": "Australia",
@@ -9,3 +21,4 @@
 	"driver_name": "Vettel",
 	"dob": "1987-07-03"
 }
+	]
