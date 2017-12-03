@@ -1,4 +1,4 @@
-"DRIVERS":[{
+{
 	"id": 1,
 	"nationality": "Australia",
 	"grand_prix": "Australian Grand Prix",
@@ -8,4 +8,4 @@
 	"class_style": "race3",
 	"driver_name": "Vettel",
 	"dob": "1987-07-03"
-}]
+}
